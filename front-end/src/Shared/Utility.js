@@ -1,0 +1,1 @@
+export const ROOTURL = "http://localhost:4000/CRUD_OPERATIONS_USING_MERN_STACK_DB";

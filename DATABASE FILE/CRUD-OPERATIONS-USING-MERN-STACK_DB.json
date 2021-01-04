@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "5ff191828c26de09c8c9f948"
+  },
+  "Full_Name": "Joshua C. Magoliman",
+  "Position": "Programmer",
+  "Mobile_No": "09475613881",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff195d385b66e0de49b2ce1"
+  },
+  "Full_Name": "Joanna Mae C. Magoliman",
+  "Position": "Corporate Banker",
+  "Mobile_No": "09123456789",
+  "__v": 0
+}]
